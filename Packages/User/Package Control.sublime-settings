@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1348068866,
+	"auto_upgrade_last_run": 1348667457,
 	"installed_packages":
 	[
 		"EncodingHelper",
 		"GBK Encoding Support",
 		"Git",
 		"Package Control",
+		"SublimeAStyleFormatter",
 		"Terminal",
 		"Theme - Soda",
 		"ZenCoding"

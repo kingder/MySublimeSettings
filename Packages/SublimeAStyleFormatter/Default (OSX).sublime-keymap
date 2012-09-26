@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+alt+f"], "command": "astyleformat" },
+    { "keys": ["super+k", "super+f"], "command": "astyleformat", "args": {"selection_only": true} }
+]
